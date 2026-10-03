@@ -1,0 +1,10 @@
+{
+  "categories": {
+    "Fashion":          {"rtoShare": 0.15, "returnShare": 0.15, "eps": 15, "typicalWeightKg": [0.2, 1.0]},
+    "Home & kitchen":   {"rtoShare": 0.15, "returnShare": 0.08, "eps": 12, "typicalWeightKg": [0.3, 3.0]},
+    "Jewellery":        {"rtoShare": 0.20, "returnShare": 0.05, "eps": 15, "typicalWeightKg": [0.02, 0.3]},
+    "Home & garden":    {"rtoShare": 0.15, "returnShare": 0.05, "eps": 10, "typicalWeightKg": [0.3, 2.0]}
+  },
+  "priorStrengthK": 30,
+  "categoryMedianConversion": 0.02
+}

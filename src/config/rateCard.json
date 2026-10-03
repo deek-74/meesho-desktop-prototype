@@ -1,0 +1,17 @@
+{
+  "gst": 0.18,
+  "platformFee": 0,
+  "volDivisor": 5000,
+  "reverseFee": 153,
+  "fwdLostOnReturn": 0,
+  "costPerRtoDefault": 15,
+  "tcs": 0.005,
+  "tds": 0.001,
+  "slabs": [
+    {"fromKg": 0,     "label": "0–0.5 kg", "local": 35,   "zonal": 55,   "national": 80},
+    {"fromKg": 0.501, "label": "0.5–1 kg", "local": 50,   "zonal": 70,   "national": 100},
+    {"fromKg": 1.001, "label": "1–2 kg",   "local": 60,   "zonal": 95,   "national": 120},
+    {"fromKg": 2.001, "label": "2–5 kg",   "local": null, "zonal": null, "national": null},
+    {"fromKg": 5.001, "label": "5–10 kg",  "local": null, "zonal": null, "national": null}
+  ]
+}

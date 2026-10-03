@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "title": "Sahi Daam",
+    "subtitle": "Supplier Hub (demo)",
+    "home": "Home",
+    "munafaMeter": "Munafa Meter",
+    "smartBand": "Smart Band",
+    "autopilot": "Autopilot",
+    "skuHealth": "SKU Health",
+    "settlement": "Settlement",
+    "startPricing": "Start pricing",
+    "resetDemo": "Reset demo"
+  },
+  "hero": {
+    "pill": "NEW",
+    "pillNote": "Now with returns & RTO built into your price.",
+    "titlePrefix": "Price right from ",
+    "titleHighlight": "day one",
+    "titleSuffix": "",
+    "subtitle": "Sahi Daam shows new sellers their true floor price, where to price in the market, and when to change it.",
+    "cta": "Start pricing",
+    "secondaryCta": "Watch 3-min demo"
+  },
+  "stats": {
+    "stat1Value": "₹314",
+    "stat1Label": "true floor of our sample kurti",
+    "stat2Value": "−₹10.59",
+    "stat2Label": "lost per order when copying ₹299",
+    "stat3Value": "10×",
+    "stat3Label": "a customer return costs vs an RTO",
+    "stat4Value": "3",
+    "stat4Label": "smart alerts over a product's life",
+    "sampleTag": "Sample data"
+  },
+  "howItWorks": {
+    "title": "How Sahi Daam Works",
+    "tryIt": "Try it →",
+    "munafaDesc": "Calculates your true cost floor including landed cost, GST on shipping, platform fees, and return & RTO failure risks.",
+    "bandDesc": "Positions your price within comparable market listings (Q1, Median, Q3) to maximize sales without burning profit.",
+    "autopilotDesc": "Monitors conversion drops, logistics fee hikes, and seasonal transitions to trigger automated pricing nudges."
+  },
+  "offlineCheck": {
+    "title": "Offline Price Check",
+    "subtitle": "Quick check for new listings before publishing",
+    "categoryLabel": "Product Category",
+    "offlinePriceLabel": "Planned Selling Price (₹)",
+    "purchaseCostLabel": "Purchase / Sourcing Cost (₹)",
+    "calculateBtn": "Get my exact price →",
+    "chips": {
+      "shipping": "Shipping + GST ₹76.70",
+      "returns": "Returns & RTO built-in",
+      "ads": "Ads & marketing"
+    },
+    "resultLoss": "At ₹{price} online you lose ₹{amount} on every order",
+    "resultProfit": "₹{price} works: you keep ₹{amount} per order"
+  },
+  "munafa": {
+    "title": "Munafa Meter",
+    "subtitle": "True Floor Price Calculator",
+    "costsHeader": "1. Product & Sourcing Costs",
+    "packageHeader": "2. Packaging & Weight Slab",
+    "returnsHeader": "3. Returns & Failure Risks",
+    "purchaseCost": "Purchase cost (₹)",
+    "packingCost": "Packing material (₹)",
+    "labourCost": "Labour & handling (₹)",
+    "landedCost": "Landed Cost (C)",
+    "actualWeight": "Actual Weight (kg)",
+    "declaredWeight": "Declared Weight (kg)",
+    "dimensions": "Box Dimensions (L × B × H cm)",
+    "zone": "Delivery Zone",
+    "rtoShare": "RTO Rate (%)",
+    "returnShare": "Customer Return Rate (%)",
+    "floorTitle": "Your Floor Price",
+    "minPriceTitle": "Minimum Price (at target profit)",
+    "waterfallTitle": "Price → Bank → Profit Waterfall (per 100 orders)",
+    "leversTitle": "What-if Profit Levers",
+    "categoryDataTag": "based on category data",
+    "returnsNote": "An RTO costs you about ₹15. A customer return costs about ₹153. Returns hurt ~10× more."
+  },
+  "smartBand": {
+    "title": "Smart Band",
+    "subtitle": "Market Positioning & Scenario Simulator",
+    "cheaperThan": "Your price is cheaper than {percent}% of similar listings.",
+    "suggestedPrice": "Suggested Price",
+    "strategyPicker": "Strategy Picker",
+    "confidenceMeter": "Confidence Meter",
+    "scenarioSimulator": "Scenario Simulator",
+    "profitHeatmap": "Profit Heatmap (Price vs Return Share)"
+  },
+  "autopilot": {
+    "title": "Lifecycle Autopilot",
+    "subtitle": "Automated Pricing & Performance Nudges",
+    "weekLabel": "Week Slider (1 – 26)",
+    "withSahiDaam": "With Sahi Daam",
+    "withoutSahiDaam": "Without Sahi Daam",
+    "seasonPnL": "Season P&L",
+    "unsoldUnits": "Unsold Units",
+    "weeksBelowFloor": "Weeks Priced Below Floor",
+    "chatTitle": "Supplier Portal Assistant"
+  },
+  "skuHealth": {
+    "title": "SKU Health Dashboard",
+    "subtitle": "Monitor your active catalogue floor coverage & risk verdicts",
+    "weightDemoToggle": "Weight Error Demo (Fertiliser 7.5 kg)"
+  },
+  "settlement": {
+    "title": "Settlement Explainer",
+    "subtitle": "Trace every rupee from customer payment to your bank payout",
+    "step1": "1. Listed Product Price",
+    "step2": "2. Deduct Shipping & Logistics Fee",
+    "step3": "3. Deduct GST on Shipping (18%)",
+    "step4": "4. Net Payout Reaching Bank Account",
+    "taxNote": "TCS (0.5%) and TDS (0.1%) are credited to your government tax account, not lost as operational cost."
+  },
+  "footer": {
+    "line1": "Sahi Daam · prototype for Meesho DICE Challenge S3 · Team NoName, IIT (ISM) Dhanbad",
+    "line2": "Fees are from public seller guides and are to be confirmed. Comparable listings are sample data."
+  }
+}

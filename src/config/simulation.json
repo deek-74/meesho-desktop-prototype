@@ -1,0 +1,12 @@
+{
+  "totalWeeks": 26,
+  "initialStock": 250,
+  "marketPrice": 299,
+  "demandElasticity": 3.0,
+  "shippingIncreaseWeek": 10,
+  "shippingIncreaseAmount": 10,
+  "viewsPhase1": 1000,
+  "viewsPhase2": 300,
+  "viewsPhase2StartWeek": 21,
+  "salvageValue": 0
+}
